@@ -1,4 +1,12 @@
 # CrudApp
+## Un CRUD angular-Firebase
+
+## Creat amb **ng new goty**
+
+## node_modules afegits:  
+- **npm install sweetalert2  --save** 
+ - **npm install angularfire --save**
+ - **npm install  firebase --save**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
