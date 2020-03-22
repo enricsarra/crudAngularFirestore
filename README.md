@@ -1,5 +1,5 @@
 # CrudApp
-## Un CRUD angular-Firebase
+## Un CRUD angular - Cloud Firestore
 
 ## Creat amb **ng new goty**
 
